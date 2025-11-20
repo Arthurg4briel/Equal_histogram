@@ -29,15 +29,15 @@ projeto_equalizacao/
 │   └── imagem_clahe.png
 │
 ├── config/                  # Configurações globais
-│   ├── __init__.py
+│   ├── __pycache__.py
 │   └── settings.py          # Caminhos e nomes de arquivos
 │
 ├── core/                    # Lógica principal (Algoritmos)
-│   ├── __init__.py
+│   ├── __pycache__.py
 │   └── histogram.py         # Implementação do Histograma e CLAHE
 │
 ├── utils/                   # Funções auxiliares
-│   ├── __init__.py
+│   ├── __pycache__.py
 │   └── io.py                # Leitura e escrita de imagens
 │
 |── .gitignore               
