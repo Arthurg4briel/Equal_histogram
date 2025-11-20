@@ -4,7 +4,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath("__main__")))
 
 ASSETS_DIR = os.path.join(BASE_DIR, 'Desafio', 'assets')
 
-INPUT_IMAGE_NAME = 'image.png'
+INPUT_IMAGE_NAME = 'image.png' # Coloque o nome da sua imagem aqui
 OUTPUT_IMAGE_NAME = 'IMAGE_equalized.png'
 OUTPUT_CLAHE_IMAGE_NAME = 'IMAGE_CLAHE.png'
 
