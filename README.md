@@ -71,14 +71,14 @@ projeto_equalizacao/
         ```
 
 
-- ** Instalando as dependências**
-    ```bash
-    pip install -r requirements.txt
-    pip install -e .
-    ```
-- ** Executando o projeto **
+- **Instalando as dependências**
+        ```bash
+        pip install -r requirements.txt
+        pip install -e .
+        ```
+- **Executando o projeto**
 Observação: Certifique-se que exista uma imagem em assets e que seu nome esteja em config/settings.py
-    ```bash
-    python main.py
-    ```
+        ```bash
+        python main.py
+        ```
 
